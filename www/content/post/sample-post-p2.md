@@ -3,9 +3,7 @@ title: 'Sample Post'
 date: 2019-03-10
 draft: false
 tags:
-slug: 'sample-post'
-layout: single
-type: post
+slug: 'sample-post/2'
 pages: [
   '/2019/03/sample-post',
   '',
